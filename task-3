@@ -1,0 +1,2527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOTIVATIONAL HUB</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles2.css">
+</head>
+<body>
+<header class="header" id="header" style="background-image: url(https://giffiles.alphacoders.com/876/8766.gif)">
+    <div class="container" >
+        <nav class="nav">
+            <a href="#" class="logo">Motivational-Hub</a>
+            <ul class="nav-menu" id="nav-menu" style="color: #ffffff">
+                <li><a href="#home" class="nav-link active"  style="color: #ffffff">Home</a></li>
+                <li><a href="#about" class="nav-link"  style="color: #ffffff">About-us</a></li>
+                <li><a href="blog.html" class="nav-link"  style="color: #ffffff">Blogging</a></li>
+                <li><a href="#categories" class="nav-link"  style="color: #ffffff">Events</a></li>
+                <li><a href="#contact" class="nav-link"  style="color: #ffffff">Contact-us</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </div>
+</header>
+<section class="hero" id="home">
+    <div class="hero-content">
+        <h1 style="color: #333037">Welcome to Motivational-Hub</h1>
+
+        <h1 style="color: #f09433">
+            Unlock Your Potential - Find Your Inspiration Here!</h1>
+         <p>  Motivational Lines offer inspiring and uplifting articles to help you live your best life. Our site is dedicated to providing motivational lines that will inspire and empower you to reach your goals, improve your productivity, enhance your leadership skills, and care for your mental health. So, whether you’re looking for a daily dose of inspiration or need a little extra push to achieve your dreams, Motivational lines.com is here to help</p>
+        <a href="#blog" class="btn btn-primary">Explore Articles</a>
+
+    </div>
+</section>
+<section class="about section" id="about">
+    <div class="container">
+        <h2 class="section-title">About Our Blog</h2>
+        <div class="about-content ">
+            <p>The best motivational lines are those that remind us of our own power, our ability to change our thoughts for the better and the ability to persevere through tough times.
+
+                When you need a reminder of your huge capabilities, your limitless potential and the power of your mindset, these short,one line  quotes  on motivation will provide the boost you need.</p>
+            <p>We curate high-quality content that empowers creators, entrepreneurs, and digital enthusiasts to stay ahead of the curve and build meaningful connections in our rapidly evolving digital landscape.</p>
+
+            <p>“Perfection is not attainable, but if we chase perfection, we can catch excellence.” Vince Lombardi</p> </div>
+    </div>
+</section>
+<section class="featured section">
+    <div class="container">
+        <h2 class="section-title">Featured Posts</h2>
+        <div class="grid grid-2 ">
+            <article class="featured-post">
+                <div class="featured-post-content">
+                    <img src="https://static.wixstatic.com/media/402627_6d28103cd4b14b6097c7971814b94bdd~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_6d28103cd4b14b6097c7971814b94bdd~mv2.jpg" width="500px" height="230px" alt="">
+                    <h3>How To Build Self-Confidence And Beat Low Self Esteem</h3>
+                    <p>Self-confidence is one of the most important things that you can have in your life. It allows you to go after your dreams with enthusiasm and without fear. Unfortunately, many people struggle with low self-esteem, which can hold them back from achieving their goals. In this post, we will explore some tips on how to build self confidence and beat low self-esteem. </p>
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> June 18, 2025</span>
+                        <span><i class="fas fa-user"></i>Shivi patel </span>
+                    </div>
+                </div>
+            </article>
+            <article class="featured-post">
+                <div class="featured-post-content">
+                    <img src="https://static.wixstatic.com/media/402627_4f3cc78956f84825b7968a01740a0cb6~mv2.jpg/v1/fill/w_934,h_964,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_4f3cc78956f84825b7968a01740a0cb6~mv2.jpg" width="500px" height="230px" alt="">
+                    <h3>10 Powerful Ways To Lead With Integrity And Build Trust</h3>
+                    <p>leading with integrity and building trust form the foundational pillars of effective leadership, which are critical for driving a team or organization toward its goals. A leader entrusted with this responsibility must foster an environment rich in authenticity, ethical conduct, and mutual trust. When coupled with a leader's competence and strategic vision.</p>
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> June 16, 2025</span>
+                        <span><i class="fas fa-user"></i>Aditya Prajapati</span>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+<section class="search-section">
+    <div class="container">
+        <div class="search-container">
+            <i class="fas fa-search search-icon"></i>
+            <input type="text" class="search-input" id="search-input" placeholder="Search Motivational  articles, topics, or authors...">
+        </div>
+    </div>
+</section>
+<section class="blog section" id="blog">
+    <div class="container">
+        <h2 class="section-title">Latest Articles</h2>
+        <div class="grid grid-3 " id="blog-posts">
+            <article class="blog-post"  >
+                <div class="blog-post-image">
+                    <img src=" https://static.wixstatic.com/media/402627_a7c634c9f2994877a6a93cff510d5e91~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_a7c634c9f2994877a6a93cff510d5e91~mv2.jpg" width="400px" height="220x" alt="" >
+                </div>
+                <div class="blog-post-content">
+
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> June 19, 2025</span>
+                        <span><i class="fas fa-tag"></i>Leadership Style</span>
+                    </div>
+                    <h3>How Does Company Culture Impact Employee Performance, Happiness, and Engagement</h3>
+                    <p>In today's fast-paced and competitive business world, having a strong company culture has become more important than ever.</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src=" https://static.wixstatic.com/media/402627_2c38166b45cc44af82bc04da70b1ffee~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_2c38166b45cc44af82bc04da70b1ffee~mv2.jpg " width="400px" height="220x" alt="" >
+                </div>
+                <div class="blog-post-content">
+
+                    <div class="post-meta">
+
+                        <span><i class="fas fa-calendar"></i> June 8, 2025</span>
+                        <span><i class="fas fa-tag"></i>Success Stories</span>
+                    </div>
+                    <h3>The Impact of Motivation on Business Success and Profit Growth</h3>
+                    <p>Several studies have shown that businesses with motivated employees have higher profits than those with demotivated employees.</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_e3b6b92dfc304ff1aae841c18fe4143d~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_e3b6b92dfc304ff1aae841c18fe4143d~mv2.jpg " width="400px" height="220x" alt="" >
+                </div>
+                <div class="blog-post-content">
+
+                    <div class="post-meta">
+
+                        <span><i class="fas fa-calendar"></i> June 7, 2025</span>
+                        <span><i class="fas fa-tag"></i>Entrepreneurship </span>
+                    </div>
+
+                    <h3>What Is a Serial Entrepreneur and How To Run Multiple Ventures</h3>
+                    <p>One option is to become a serial entrepreneur who launches multiple businesses and manages them all simultaneously.</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_8bf11b7d1e0f44bc8f892a202e01afde~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_8bf11b7d1e0f44bc8f892a202e01afde~mv2.jpg" width="400px" height="220px" alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> June 6, 2025</span>
+                        <span><i class="fas fa-tag"></i>BoostWorkplace </span>
+                    </div>
+                    <h3>10 Ways To Boost Workplace Morale As A Leader</h3>
+                    <p>As a leader, keeping your team’s morale high is important. Low morale can lead to decreased productivity and creativity and even cause team members to leave their jobs. </p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_3244942d7c194bf0b65bd87c05d97236~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_3244942d7c194bf0b65bd87c05d97236~mv2.jpg" width="400px" height="220px"
+                          alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> June 5, 2025</span>
+                        <span><i class="fas fa-tag"></i>Effectiveness</span>
+                    </div>
+                    <h3>10 Super Effective Ways To Motivate Your Team</h3>
+                    <p>No one likes a slacker. When one team member is not pulling their weight, it creates an overall feeling of apathy and laziness.</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_9c58a3c0d2cf4dba9603b6f6431f2ad7~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_9c58a3c0d2cf4dba9603b6f6431f2ad7~mv2.jpg" width="400px" height="220px"
+                         alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> June 4, 2025</span>
+                        <span><i class="fas fa-tag"></i>Team leader</span>
+                    </div>
+                    <h3>Steps To Manage Conflict Between Team Members – A Comprehensive Guide</h3>
+                    <p>Conflict is bound to happen when you put a group of people together. However, how you manage that conflict can make or break your team.</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src=" https://static.wixstatic.com/media/402627_a78dcfc07b4949b493ca2b39514a90b2~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_a78dcfc07b4949b493ca2b39514a90b2~mv2.jpg" width="400px" height="220px"
+                         alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> May 24, 2025</span>
+                        <span><i class="fas fa-tag"></i>Authentic Leadership</span>
+                    </div>
+                    <h3>Authentic Leadership: What It Is, Why It Matters</h3>
+                    <p>
+                        Anyone in a leadership role will tell you that it’s important to be authentic. But what does that mean, exactly? And why is it so important?</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_9f0a611b0e314be99fcc9b92dd8d221a~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_9f0a611b0e314be99fcc9b92dd8d221a~mv2.jpg" width="400px" height="220px"
+                         alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i>May 4, 2025</span>
+                        <span><i class="fas fa-tag">Team Conference</i></span>
+                    </div>
+                    <h3>10 Ways To Successfully Manage Virtual Teams</h3>
+                    <p>Anyone who has ever managed a team, whether in person or virtually, knows that certain key things must be done for the team to succeed. .</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_7d1f299d4a1c49708a67288293b70cd1~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_7d1f299d4a1c49708a67288293b70cd1~mv2.jpg" width="400px" height="220px"
+                         alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> April 14, 2025</span>
+                        <span><i class="fas fa-tag"></i></span>
+                    </div>
+                    <h3>15 Commitments Of Conscious Leadership That Will Change Your Life</h3>
+                    <p>
+                        What if you could change your life by changing your leadership style? According to David Marquet, it’s possible. In his book “Turn the Ship Around!”,</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+<section class="categories section" id="categories">
+    <div class="container" >
+        <h2 class="section-title">Explore Categories</h2>
+        <div class="grid grid-4 ">
+            <div class="category-card" data-category="technology" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriZMYCgmXZsa5DaN6tbcnXy-Fh_g4GoeA4A&s)">
+                <div class="category-icon">
+                    <i class="fas fa-laptop-code"></i>
+                </div>
+                <h3>Motivational lines</h3>
+                <p class="count">524 Articles</p>
+            </div>
+            <div class="category-card" data-category="design" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriZMYCgmXZsa5DaN6tbcnXy-Fh_g4GoeA4A&s)">
+                <div class="category-icon">
+                    <i class="fa-brands fa-xbox"></i>
+                </div>
+                <h3>Stories</h3>
+                <p class="count">918 Articles</p>
+            </div>
+            <div class="category-card" data-category="development" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriZMYCgmXZsa5DaN6tbcnXy-Fh_g4GoeA4A&s)">
+                <div class="category-icon">
+                    <i class="fa-brands fa-d-and-d"></i>
+                </div>
+                <h3>Articles</h3>
+                <p class="count">732 Articles</p>
+            </div>
+            <div class="category-card" data-category="development" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriZMYCgmXZsa5DaN6tbcnXy-Fh_g4GoeA4A&s)">
+                <div class="category-icon">
+                    <i class="fa-brands fa-square-steam"></i>
+                </div>
+                <h3>Motivational Tutorials</h3>
+                <p class="count">1732 Articles</p>
+            </div>
+            <div class="category-card" data-category="development" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriZMYCgmXZsa5DaN6tbcnXy-Fh_g4GoeA4A&s)">
+                <div class="category-icon">
+                    <i class="fa-brands fa-bootstrap"></i>
+                </div>
+                <h3>Business Ideas</h3>
+                <p class="count">732 Articles</p>
+            </div>
+            <div class="category-card" data-category="ai" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriZMYCgmXZsa5DaN6tbcnXy-Fh_g4GoeA4A&s)">
+                <div class="category-icon">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <h3>Inspirational Thoughts</h3>
+                <p class="count">515 Articles</p>
+            </div>
+            <div class="category-card" data-category="security" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriZMYCgmXZsa5DaN6tbcnXy-Fh_g4GoeA4A&s)">
+                <div class="category-icon">
+                    <i class="fa-brands fa-playstation"></i>
+                </div>
+                <h3>
+                    Lyrics </h3>
+                <p class="count">312 Articles</p>
+            </div>
+            <div class="category-card" data-category="mobile" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriZMYCgmXZsa5DaN6tbcnXy-Fh_g4GoeA4A&s)">
+                <div class="category-icon">
+                    <i class="fa-brands fa-twitch"></i>
+                </div>
+                <h3>Humanity Relation</h3>
+                <p class="count">121 Articles</p>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="popular section">
+    <div class="container" >
+        <h2 class="section-title">Popular Posts</h2>
+        <div class="grid grid-3 ">
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_b083e974529248dda1549d19628680e4~mv2.jpg/v1/fill/w_934,h_964,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_b083e974529248dda1549d19628680e4~mv2.jpg" width="400px" height="220px" alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-eye"></i> 156.2K views</span>
+                        <span><i class="fas fa-heart"></i> 8592 likes</span>
+                    </div>
+                    <h3>How Can I Be 100% Productive?</h3>
+                    <p>In today's fast-paced and competitive world, productivity is the key to success. We often find ourselves struggling to manage our time effectively and accomplish all the tasks on our to-do list</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_1385aae3f1a041aea0ea9ee0f78627da~mv2.jpg/v1/fill/w_934,h_964,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_1385aae3f1a041aea0ea9ee0f78627da~mv2.jpg" width="380px" height="220px" alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-eye"></i> 112.8K views</span>
+                        <span><i class="fas fa-heart"></i> 7143 likes</span>
+                    </div>
+                    <h3>4 Ways To Become A High Performer and Achieve Excellence</h3>
+                    <p>In today's fast-paced and competitive world, becoming a high performer and achieving excellence is an aspiration shared by many. </p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_961e7ad91e484a90bf6b0c32740e5fb6~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_961e7ad91e484a90bf6b0c32740e5fb6~mv2.jpg" width="360px" height="220px" alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-eye"></i> 181.5K views</span>
+                        <span><i class="fas fa-heart"></i> 8654 likes</span>
+                    </div>
+                    <h3>15 Effective Ways For Time Management</h3>
+                    <p>Time management is a term used to describe the various techniques people use to plan and control how they spend their time.</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+<section class="author-bio section">
+    <div class="container">
+        <img src="https://static.wixstatic.com/media/402627_25d9d7fb6c43402981e9818498560d99~mv2.jpg/v1/fill/w_786,h_590,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_25d9d7fb6c43402981e9818498560d99~mv2.jpg" alt="" width="1200px" height="500px">
+        <h2 class="section-title">Meet the Author</h2>
+        <div class="">
+            <img src="https://static.wixstatic.com/media/402627_5c8f4c2b1bef4422b3ab33be76bee183~mv2.jpg/v1/fill/w_786,h_590,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_5c8f4c2b1bef4422b3ab33be76bee183~mv2.jpg" alt="" width="300px" height="200px" style="border-radius: 50%">
+            <div >SOFTWARE DEVELOPER</div>
+            <h3>VISHESH KUMAR PRAJAPATI</h3>
+            <p>Full-stack developer and tech writer with over 1 years of experience in web development. Passionate about sharing knowledge and helping others learn through clear, practical tutorials and insights.</p>
+        </div>
+    </div>
+</section>
+<section class="newsletter section">
+    <div class="container">
+        <h2 class="section-title" style="color: white;">Stay Updated</h2>
+        <p style="margin-bottom: 2rem; opacity: 0.9;">Subscribe to our newsletter and never miss the latest articles and insights.</p>
+        <form class="newsletter-form " id="newsletter-form">
+            <input type="email" class="newsletter-input" placeholder="Enter your email address" required>
+            <button type="submit" class="btn btn-secondary">Subscribe</button>
+        </form>
+    </div>
+</section>
+<section class="testimonials section">
+    <div class="container">
+        <h2 class="section-title">What Readers Say</h2>
+        <div class="grid grid-3 ">
+            <div class="testimonial-card" style="background-color: #d1d5db">
+                <div class="stars" >
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p class="testimonial-text">“Perfection is not attainable, but if we chase perfection, we can catch excellence.” </p>
+                <p class="testimonial-author">-Vince Lombardi</p>
+            </div>
+            <div class="testimonial-card" style="background-color: #d1d5db">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p class="testimonial-text">“What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.”</p>
+                <p class="testimonial-author">- Ralph Waldo Emerson</p>
+            </div>
+            <div class="testimonial-card" style="background-color: #d1d5db">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p class="testimonial-text">“The only way to discover the limits of the possible is to go beyond them into the impossible.” </p>
+                <p class="testimonial-author">-Arthur C. Clarke </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="quote-section section">
+    <div class="container" >
+        <div class="quote-content ">
+            <p class="quote-text" id="quote-text">“One day your life will flash before your eyes. Make sure it’s worth watching.” </p>
+            <p class="quote-author" id="quote-author">- Gerard Way</p>
+        </div>
+    </div>
+</section>
+<section class="social-media section">
+    <div class="container">
+        <h2 class="section-title">Follow Us</h2>
+        <div class="social-icons ">
+            <a href="#" class="social-icon facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="social-icon twitter"><i class="fab fa-twitter"></i></a>
+            <a href="#" class="social-icon instagram"><i class="fab fa-instagram"></i></a>
+            <a href="#" class="social-icon linkedin"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="social-icon youtube"><i class="fab fa-youtube"></i></a>
+        </div>
+    </div>
+</section>
+<section class="comments section" style="background-image: url(https://i.pinimg.com/originals/b0/eb/92/b0eb9271c6f47e7a63a2c95fce4a3cd5.gif)">
+    <div class="container" >
+        <h2 class="section-title">Join the Discussion</h2>
+        <div class="comment-form " style="background-color: #ccd2d8">
+            <h3 style="margin-bottom: 1.5rem;">Leave a Comment</h3>
+            <form id="comment-form">
+                <div class="form-group">
+                    <label class="form-label" for="comment-name">Name *</label>
+                    <input type="text" class="form-input" id="comment-name" required>
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="comment-email">Email *</label>
+                    <input type="email" class="form-input" id="comment-email" required>
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="comment-message">Message *</label>
+                    <textarea class="form-textarea" id="comment-message" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Post Comment</button>
+            </form>
+        </div>
+        <div class="comments-list" id="comments-list">
+
+        </div>
+    </div>
+</section>
+
+<section class="related section" style="background: var(--bg-secondary);">
+    <div class="container">
+        <h2 class="section-title">Related Articles <i class="fa-solid fa-sign-posts-wrench"></i></h2>
+        <div class="grid grid-3 ">
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_0b7d13d0be634b1a83fbe5296ca47a15~mv2.jpg/v1/fill/w_786,h_590,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_0b7d13d0be634b1a83fbe5296ca47a15~mv2.jpg" width="400px" height="220px" alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> June 13, 2025</span>
+                    </div>
+                    <h3>Say no to requests that will throw off your schedule</h3>
+                    <p>If someone asks you for something that will make it difficult for you to stay on track with your time management goals, it’s okay to say no</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/402627_de6f18f76ac845a2b059e176dbc2bb58~mv2.jpg/v1/fill/w_934,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/402627_de6f18f76ac845a2b059e176dbc2bb58~mv2.jpg" width="400px" height="220px" alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> June 12, 2025</span>
+                    </div>
+                    <h3>How Does Social Media Affect Mental Health: Exploring the Pros, Cons, and Addiction</h3>
+                    <p>In the digital age, social media has become integral to our lives, shaping how we interact, communicate, and consume information.</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+            <article class="blog-post">
+                <div class="blog-post-image">
+                    <img src="https://static.wixstatic.com/media/6a7b78_20302c194a314532b8a0b1370cac448f~mv2.jpg/v1/fill/w_768,h_512,al_c,lg_1,q_85,enc_avif,quality_auto/6a7b78_20302c194a314532b8a0b1370cac448f~mv2.jpg" width="400px" height="220px" alt="">
+                </div>
+                <div class="blog-post-content">
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> June 1, 2025</span>
+                    </div>
+                    <h3>Unlocking Happiness: Tools for Improving Mental Health and Finding Joy</h3>
+                    <p>Many individuals, like you and me, often have a mental checklist of things we believe are essential for experiencing genuine happiness.</p>
+                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+
+<section class="contact section" id="contact" style="background-image: url(https://i.pinimg.com/originals/b0/eb/92/b0eb9271c6f47e7a63a2c95fce4a3cd5.gif)">
+    <div class="container"  >
+        <h2 class="section-title">Get In Touch <i class="fa-solid fa-phone-volume"></i></h2>
+        <form class="contact-form " id="contact-form" style="background-color: #d1d5db" >
+            <div class="form-group">
+                <label class="form-label" for="contact-name">Name *</label>
+                <input type="text" class="form-input" id="contact-name" required>
+            </div>
+            <div class="form-group">
+                <label class="form-label" for="contact-email">Email *</label>
+                <input type="email" class="form-input" id="contact-email" required>
+            </div>
+            <div class="form-group">
+                <label class="form-label" for="contact-subject">Subject *</label>
+                <input type="text" class="form-input" id="contact-subject" required>
+            </div>
+            <div class="form-group">
+                <label class="form-label" for="contact-message">Message *</label>
+                <textarea class="form-textarea" id="contact-message" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Send Message</button>
+        </form>
+    </div>
+</section>
+
+
+<section class="faq section" >
+    <div class="container" style="background-color: #d1d5db">
+        <h2 class="section-title">Frequently Asked Questions <i class="fa-solid fa-messages-question"></i></h2>
+        <div class="">
+            <div class="faq-item">
+                <div class="faq-question">
+                    <span>How often do you publish new Motivational  articles?</span>
+                    <i class="fas fa-chevron-down faq-icon"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>We publish new articles 2-3 times per week, covering the latest trends in web development, design, and technology.</p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">
+                    <span>Can I submit a guest post from your websites?</span>
+                    <i class="fas fa-chevron-down faq-icon"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>Yes! We welcome guest contributions. Please contact us with your article idea and we'll review it for publication.</p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">
+                    <span>Is the Motivational newsletter free?</span>
+                    <i class="fas fa-chevron-down faq-icon"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>Absolutely! Our newsletter is completely free and contains exclusive content, tips, and early access to new articles.</p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">
+                    <span>Do you offer Motivational tutorials?</span>
+                    <i class="fas fa-chevron-down faq-icon"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>Yes, we regularly publish step-by-step coding tutorials for various programming languages and frameworks.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Motivational Hub</h3>
+                <p>Motivation Lines is an informative and entertaining site that describes living a life full of happiness, success, knowledge, and motivation. We help you take steps toward building habits that ensure the total fulfillment of your dreams, goals, and aspirations through practical tips, suggestions & advice.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <a href="#home">Home <i class="fa-solid fa-house"></i></a>
+                <a href="#about">About-us <i class="fa-solid fa-id-card-clip"></i></a>
+                <a href="blog.html">Blogging <i class="fa-solid fa-blog"></i></a>
+                <a href="#categories">Events <i class="fa-solid fa-block-brick-fire"></i></a>
+                <a href="#contact">Contact-us <i class="fa-light fa-circle-user"></i></a>
+                <a href="">Program-List <i class="fa-solid fa-block-brick-fire"></i></a>
+                <a href="">Refer-Friends <i class="fa-solid fa-eject"></i></a>
+            </div>
+            <div class="footer-section">
+                <h3>Categories</h3>
+                <a href="#">Motivational Stories</a>
+                <a href="#">Articles</a>
+                <a href="#">Humanity Relation</a>
+                <a href="#">Inspirational Thoughts</a>
+                <a href="#">Lyrics</a>
+                <a href="#">Motivational Lines</a>
+                <a href="#">Business Idea</a>
+            </div>
+            <div class="footer-section">
+                <h3>Connect</h3>
+                <a href="#">Twitter <i class="fa-brands fa-twitter"></i> </a>
+                <a href="#">LinkedIn <i class="fa-brands fa-linkedin"></i></a>
+                <a href="#">GitHub <i class="fa-brands fa-github"></i></a>
+                <a href="#">YouTube <i class="fa-brands fa-youtube"></i></a>
+                <a href="#">Newsletter <i class="fa-solid fa-address-card"></i></a>
+                <a href="">Telegram <i class="fa-brands fa-telegram"></i></a>
+                <a href="">FaceBook <i class="fa-brands fa-facebook"></i></a>
+                <a href="">Instagram <i class="fa-brands fa-instagram"></i> </a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>Copyright© 2025 Motivational Hub</p>
+        </div>
+    </div>
+</footer>
+<button class="back-to-top" id="back-to-top">
+    <i class="fas fa-arrow-up"></i>
+</button>
+<script src="script3.js"></script>
+</body>
+</html>
+===================================================
+
+<html lang="">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link href="https://fonts.googleapis.com/css?family=Lora|Ubuntu:300,400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>BLOG WEBSITES</title>
+</head>
+<body>
+<header>
+    <div class="container container-flex">
+        <div class="site-title">
+            <h1>Motivational Inspiration</h1>
+            <p class="subtitle">a small burst of inspiration can make a huge difference.</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a class="current-page" href="index.html">Home</a></li>
+                <li><a href="about-me.html">About me</a></li>
+                <li><a href="recent-posts.html">Recent posts</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<section style="display: inline-flex">
+    <img src="https://d1fa9n6k2ql7on.cloudfront.net/HGSM26UAFZDDIW11639685289.gif" style="margin-left: 40px">
+    <img src="https://d1fa9n6k2ql7on.cloudfront.net/5AHE2Z30JJLIVFT1702513584.gif"  style="margin-left: 40px">
+    <img src="https://d1fa9n6k2ql7on.cloudfront.net/B49WLFALZ88J2DB1702514110.gif" style="margin-left: 40px; height: 280px; width: 460px">
+
+</section>
+<img src="https://d1fa9n6k2ql7on.cloudfront.net/FUYTP4DYQUT1GTV1702514058.gif"  style="margin-top: 100px; margin-left: 300px">
+<h1 STYLE="text-align: center;margin-top: 200px ;color: #6b7280;font-size: xxx-large;font-weight: bolder"> BLOGGING PAGE</h1>
+<div class="container container-flex" style="margin-top:50px">
+
+    <main role="main">
+
+        <article class="article-featured">
+            <h2 class="article-title">Finding simplicity in life</h2>
+            <img src="https://64.media.tumblr.com/2191e54edd99565fa7eed4ae98f5086c/tumblr_mukbrsb43X1sj6csmo1_500.gif" alt="simple white desk on a white wall with a plant on the far right side" class="article-image">
+            <p class="article-info">June 13, 2025 | 123 comments</p>
+            <p class="article-body"><strong>Life can get complicated really quickly</strong>, but it doesn't have to be! There are many ways to simplify your life, <a href="#">a few of which we've explored in the past</a>. This week we're taking a bit of a approach though, in how you can find simplicity in the life you already living.</p>
+            <a href="#" class="article-read-more">CONTINUE READING</a>
+        </article>
+<hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">How to keep your cooking simple </h2>
+                <p class="article-body">Food is a very important part of everyone's life. If you want to be healthy, you have to eat healthy. One of the easiest ways to do that is to keep your cooking nice and simple.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://cdn.shopify.com/s/files/1/1159/3118/files/Han-Oak---IMG_0295.gif?v=1617258037" alt="two dumplings on a wood plate with chopsticks" class="article-image">
+                <p class="article-info">June 19, 2025| 343 comments</p>
+            </div>
+        </article>
+<hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">Simplicity and work </h2>
+                <p class="article-body">Work is often a major source of stress. People get frustrated, it ruins their relationship with others and it leads to burnout. By keeping your work life as simple as possible, it will help balance everything out.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://imgproxy.domestika.org/unsafe/w:820/plain/src://content-items/005/802/743/Sofia-original.gif?1600399033" alt="a chair white chair at a white desk on a white wall" class="article-image">
+                <p class="article-info">June 12, 2025 | 367 comments</p>
+            </div>
+        </article>
+<hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">Simple decorations</h2>
+                <p class="article-body">A home isn't a home until you've decorated a little. People either don't decorate, or they go overboard and it doesn't have the impact they were hoping for. Staying simple will help draw the eye where you want it to and make things pop like never before.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="data:image/jpeg;base64,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" alt="a green plant in a clear, round vase with water in it" class="article-image">
+                <p class="article-info">June 3, 2025 | 873 comments</p>
+            </div>
+        </article>
+        <hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">The vibe: feel-good news you’ll want to read in the morning.</h2>
+                <p class="article-body">The Underdog Newsletter shares inspiring sports stories about athletes overcoming odds. Its positive vibes uplift sports fans of the NFL, MLB, and NBA, helping them feel empowered to tackle their own challenges.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondarY">
+         <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/Screenshot-2023-10-27-110026-e1698418910209.png"   alt="a green plant in a clear, round vase with water in it" class="article-image">
+                <p class="article-info">June 23, 2025 | 1873 comments</p>
+            </div>
+        </article>
+    </main>
+
+    <aside class="sidebar">
+
+        <div class="sidebar-widget">
+            <h2 class="widget-title">Newsletter</h2>
+            <img src="https://media.tenor.com/xsRvFf1_b60AAAAM/chair-break-fail.gif" alt="" class="widget-image">
+            <p class="widget-body">I find life better, and I'm happier, when things are nice and simple.</p>
+        </div>
+<hr>
+        <div class="sidebar-widget">
+            <h2 class="widget-title">RECENT POSTS</h2>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Keeping cooking simple</h3>
+                <img src="https://alumni.risd.edu/sites/default/files/2023-12/AD10024_Siteimage_preview_white.gif" alt="two dumplings on a wood plate with chopsticks" class="widget-image">
+            </div>
+            <hr>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Simplicity and work</h3>
+                <img src="https://camo.envatousercontent.com/78273d3475c923d5049df4bf3794de0328510968/687474703a2f2f7777772e6c6576656c2e62612f656e7661746f2f61645f6e65772e676966" alt="a chair white chair at a white desk on a white wall" class="widget-image">
+            </div>
+            <hr>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Simple decorations</h3>
+                <img src="https://i.pinimg.com/originals/34/19/df/3419df4b41f78e006722c3160c1f05a9.gif" alt="a green plant in a clear, round vase with water in it" class="widget-image">
+            </div>
+
+        </div>
+        <hr>
+        <div class="sidebar-widget">
+            <h2 class="widget-title">About me</h2>
+            <img src="https://png.pngtree.com/png-vector/20191104/ourmid/pngtree-businessman-avatar-cartoon-style-png-image_1953664.jpg" alt="" class="widget-image">
+            <p class="widget-body">Hi, I'm Vishesh kumar Prajapati, a full-stack web developer with experience in building and deploying web applications. I'm proficient in front-end technologies like HTML, CSS, and JavaScript, and I also have experience with back-end technologies like Python and Node.js, as well as databases like MongoDB. I enjoy working on projects from start to finish, and I'm passionate about creating user-friendly and efficient web experiences."
+            </p>
+        </div>
+
+    </aside>
+
+</div>
+
+
+<footer>
+    <p><strong>MOTIVATIONAL HUB</strong></p>
+    <p>Copyright@Vk.p2025</p>
+</footer>
+
+
+
+</body>
+</html>
+=========================
+<html lang="">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link href="https://fonts.googleapis.com/css?family=Lora|Ubuntu:300,400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>blog</title>
+</head>
+<body>
+<header>
+    <div class="container container-flex">
+        <div class="site-title">
+            <h1>Motivational Inspiration</h1>
+            <p class="subtitle">a small burst of inspiration can make a huge difference.</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a class="current-page" href="about-me.html">About me</a></li>
+                <li><a href="recent-posts.html">Recent posts</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<div class="container container-flex">
+    <main role="main">
+        <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/Screenshot-2023-12-11-151030-e1702325565492.png"  style="width: 900px;height: 600px" alt="">
+        <h2>Hi, I'm Vishesh kumar Prajapati, a full-stack web developer with experience in building and deploying web applications.</h2><p> I'm proficient in front-end technologies like HTML, CSS, and JavaScript, and I also have experience with back-end technologies like Python and Node.js, as well as databases like MongoDB. I enjoy working on projects from start to finish, and I'm passionate about creating user-friendly and efficient web experiences."</p>
+
+       <p> A full-stack web developer student is someone learning both the front-end (client-side) and back-end (server-side) aspects of web development. They are acquiring skills in various programming languages, frameworks, and technologies to build complete web applications. This includes mastering technologies for both the user interface and the underlying server and database infrastructure.
+        Key aspects of a full-stack web developer student: </p>
+      <h2> Learning front-end technologies:</h2>
+        <p>    This involves understanding HTML, CSS, and JavaScript, as well as front-end frameworks like React, Angular, or Vue.js. </p>
+        <h2>  Learning back-end technologies:</h2>
+        <p>  This includes learning server-side languages like Python, Java, or Node.js, and database technologies like MySQL, PostgreSQL, or MongoDB. </p>
+        <h2>  Gaining practical experience:</h2>
+        <p>  Many full-stack development courses and programs emphasize hands-on projects and mini-projects to build a portfolio. </p>
+        <h2>  Understanding the full development cycle:</h2>
+        <p> Full-stack developers need to understand how the front-end, back-end, and database interact to create a functional web application. </p>
+        <h2>  Developing problem-solving skills:</h2>
+        <p> A crucial aspect of full-stack development is the ability to troubleshoot and debug issues across the entire application stack. </p>
+        <h2> Learning to work in a team:</h2>
+        <p> Many full-stack developers collaborate with other developers, designers, and project managers. </p>
+     <p>   In essence, a full-stack web developer student is on a path to becoming a versatile developer capable of handling all aspects of web application development, from design to deployment. </p>
+
+    </main>
+
+    <aside class="sidebar">
+
+        <div class="sidebar-widget">
+            <h2 class="widget-title">RECENT POSTS</h2>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Stay Pawsitive
+                    : awwww-inspiring news stories about pets.</h3>
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/stay-pawsitive.png" alt="" class="widget-image">
+            </div>
+            <hr>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Important Not Important : science news to help you 1) feel better and 2) unf*ck the world</h3>
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/INI-newsletter.png" alt="" class="widget-image">
+            </div>
+            <hr>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Thred Newsletter
+                    : hopeful news about social change</h3>
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/thred.png" alt="" class="widget-image">
+            </div>
+            <hr>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Gazette Gal : fun and unbiased daily news for women</h3>
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/gazette-gal.png" alt="" class="widget-image">
+            </div>
+            <hr>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">
+                    AI, data analysis, and machine learning are key components of the fintech industry.   </h3>
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/03/essentials.png" alt="" class="widget-image">
+            </div>
+        </div>
+
+    </aside>
+
+</div>
+
+
+<footer>
+    <p><strong>Motivational Hub</strong></p>
+    <p>Copyright@Vk.p 2025</p>
+</footer>
+
+
+
+</body>
+</html>
+===============
+
+<html lang="">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link href="https://fonts.googleapis.com/css?family=Lora|Ubuntu:300,400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>BLOG WEBSITES</title>
+</head>
+<body>
+<header>
+    <div class="container container-flex">
+        <div class="site-title">
+            <h1>Motivational Inspiration</h1>
+            <p class="subtitle">a small burst of inspiration can make a huge difference.</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a class="current-page" href="index.html">Home</a></li>
+                <li><a href="about-me.html">About me</a></li>
+                <li><a href="recent-posts.html">Recent posts</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<section style="display: inline-flex">
+    <img src="https://d1fa9n6k2ql7on.cloudfront.net/HGSM26UAFZDDIW11639685289.gif" style="margin-left: 40px">
+    <img src="https://d1fa9n6k2ql7on.cloudfront.net/5AHE2Z30JJLIVFT1702513584.gif"  style="margin-left: 40px">
+    <img src="https://d1fa9n6k2ql7on.cloudfront.net/B49WLFALZ88J2DB1702514110.gif" style="margin-left: 40px; height: 280px; width: 460px">
+
+</section>
+<img src="https://d1fa9n6k2ql7on.cloudfront.net/FUYTP4DYQUT1GTV1702514058.gif"  style="margin-top: 100px; margin-left: 300px">
+<h1 STYLE="text-align: center;margin-top: 200px ;color: #6b7280;font-size: xxx-large;font-weight: bolder"> BLOGGING PAGE</h1>
+<div class="container container-flex" style="margin-top:50px">
+
+    <main role="main">
+
+        <article class="article-featured">
+            <h2 class="article-title">Finding simplicity in life</h2>
+            <img src="https://64.media.tumblr.com/2191e54edd99565fa7eed4ae98f5086c/tumblr_mukbrsb43X1sj6csmo1_500.gif" alt="simple white desk on a white wall with a plant on the far right side" class="article-image">
+            <p class="article-info">June 13, 2025 | 123 comments</p>
+            <p class="article-body"><strong>Life can get complicated really quickly</strong>, but it doesn't have to be! There are many ways to simplify your life, <a href="#">a few of which we've explored in the past</a>. This week we're taking a bit of a approach though, in how you can find simplicity in the life you already living.</p>
+            <a href="#" class="article-read-more">CONTINUE READING</a>
+        </article>
+        <hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">How to keep your cooking simple </h2>
+                <p class="article-body">Food is a very important part of everyone's life. If you want to be healthy, you have to eat healthy. One of the easiest ways to do that is to keep your cooking nice and simple.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://cdn.shopify.com/s/files/1/1159/3118/files/Han-Oak---IMG_0295.gif?v=1617258037" alt="two dumplings on a wood plate with chopsticks" class="article-image">
+                <p class="article-info">June 19, 2025| 343 comments</p>
+            </div>
+        </article>
+        <hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">Simplicity and work </h2>
+                <p class="article-body">Work is often a major source of stress. People get frustrated, it ruins their relationship with others and it leads to burnout. By keeping your work life as simple as possible, it will help balance everything out.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://imgproxy.domestika.org/unsafe/w:820/plain/src://content-items/005/802/743/Sofia-original.gif?1600399033" alt="a chair white chair at a white desk on a white wall" class="article-image">
+                <p class="article-info">June 12, 2025 | 367 comments</p>
+            </div>
+        </article>
+        <hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">Simple decorations</h2>
+                <p class="article-body">A home isn't a home until you've decorated a little. People either don't decorate, or they go overboard and it doesn't have the impact they were hoping for. Staying simple will help draw the eye where you want it to and make things pop like never before.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="data:image/jpeg;base64,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" alt="a green plant in a clear, round vase with water in it" class="article-image">
+                <p class="article-info">June 3, 2025 | 873 comments</p>
+            </div>
+        </article>
+        <hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">The vibe: feel-good news you’ll want to read in the morning.</h2>
+                <p class="article-body">The Underdog Newsletter shares inspiring sports stories about athletes overcoming odds. Its positive vibes uplift sports fans of the NFL, MLB, and NBA, helping them feel empowered to tackle their own challenges.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+
+            <div class="article-recent-secondarY">
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/Screenshot-2023-10-27-110026-e1698418910209.png"   alt="a green plant in a clear, round vase with water in it" class="article-image">
+                <p class="article-info">June 23, 2025 | 1873 comments</p>
+            </div>
+        </article>
+    </main>
+
+    <aside class="sidebar">
+
+        <div class="sidebar-widget">
+            <h2 class="widget-title">Newsletter</h2>
+            <img src="https://media.tenor.com/xsRvFf1_b60AAAAM/chair-break-fail.gif" alt="" class="widget-image">
+            <p class="widget-body">I find life better, and I'm happier, when things are nice and simple.</p>
+        </div>
+<hr>
+        <div class="sidebar-widget">
+            <h2 class="widget-title">RECENT POSTS</h2>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Keeping cooking simple</h3>
+                <img src="https://alumni.risd.edu/sites/default/files/2023-12/AD10024_Siteimage_preview_white.gif" alt="two dumplings on a wood plate with chopsticks" class="widget-image">
+            </div>
+            <hr>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Simplicity and work</h3>
+                <img src="https://camo.envatousercontent.com/78273d3475c923d5049df4bf3794de0328510968/687474703a2f2f7777772e6c6576656c2e62612f656e7661746f2f61645f6e65772e676966" alt="a chair white chair at a white desk on a white wall" class="widget-image">
+            </div>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Simple decorations</h3>
+                <img src="https://i.pinimg.com/originals/34/19/df/3419df4b41f78e006722c3160c1f05a9.gif" alt="a green plant in a clear, round vase with water in it" class="widget-image">
+            </div>
+
+        </div>
+        <hr>
+        <div class="sidebar-widget">
+            <h2 class="widget-title">About me</h2>
+            <img src="https://png.pngtree.com/png-vector/20191104/ourmid/pngtree-businessman-avatar-cartoon-style-png-image_1953664.jpg" alt="" class="widget-image">
+            <p class="widget-body">Hi, I'm Vishesh kumar Prajapati, a full-stack web developer with experience in building and deploying web applications. I'm proficient in front-end technologies like HTML, CSS, and JavaScript, and I also have experience with back-end technologies like Python and Node.js, as well as databases like MongoDB. I enjoy working on projects from start to finish, and I'm passionate about creating user-friendly and efficient web experiences."
+            </p>
+        </div>
+
+    </aside>
+
+</div>
+
+
+<footer>
+    <p><strong>MOTIVATIONAL HUB</strong></p>
+    <p>Copyright@Vk.p2025</p>
+</footer>
+
+
+
+</body>
+</html>
+=================
+<html>
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link href="https://fonts.googleapis.com/css?family=Lora|Ubuntu:300,400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <div class="container container-flex">
+        <div class="site-title">
+            <h1>Motivational Inspiration</h1>
+            <p class="subtitle">a small burst of inspiration can make a huge difference.</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about-me.html">About me</a></li>
+                <li><a class="current-page" href="recent-posts.html">Recent posts</a></li>
+            </ul>
+        </nav>
+    </div> <!-- / .container -->
+</header>
+
+<div class="container container-flex">
+    <main role="main">
+
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">The vibe: lighthearted updates on all things pop culture, wellness, and more</h2>
+                <p class="article-body"><strong>NBC’s TODAY Show helps thousands of people start</strong> their day with a dose of lighthearted fun and current events. The same is true for the show’s free newsletter, This is TODAY. Each morning, this publication shares the latest events with a focus on lifestyle, wellness, and pop culture. Plus, each edition is capped off by a Daily Delight–a fun news story to make you smile before you head to work.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/12/Screenshot-2024-02-19-135606.png" alt="" class="article-image">
+                <p class="article-info">April 23, 2025 | 233 comments</p>
+            </div>
+        </article>
+<hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">The Daily Tonic
+                    : motivational newsletter with a healthy focus </h2>
+                <p class="article-body">The Daily Tonic changed the tone of health news to be more relatable, honest, and authentic. Today, they send daily newsletters to 100,000+ subscribers; including the latest health news, product recommendations, recipes, fitness tips, and more.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/Screenshot-2023-12-11-145756.png" alt="" class="article-image">
+                <p class="article-info">May 19, 2025 | 763 comments</p>
+            </div>
+        </article>
+<hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">Upworthy Scoop
+                    : a positivity newsletter with stories to uplift, inform, and inspire </h2>
+                <p class="article-body">Each day, Upworthy Scoop shares positive and impactful news, human interest stories, and updates on social issues. The newsletter is a unique blend of hope and relevance, offering readers a fresh perspective on current events.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/Screenshot-2023-12-11-143742.png" alt="" class="article-image">
+                <p class="article-info">May 18, 2025 | 365 comments</p>
+            </div>
+        </article>
+<hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">Good Energy Email
+                    : a quick daily read on positivity & self-improvement</h2>
+                <p class="article-body">Good Energy email is a daily newsletter that shares quick reads on inspiring positivity in everyday life. It helps readers improve their lives and uplift their spirits and attracts an audience of engaged readers looking to get the most out of life.</p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/good-energy-email.png" alt="" class="article-image">
+                <p class="article-info">May 23, 2025 | 673 comments</p>
+            </div>
+        </article>
+        <hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">. Your Monday Moment
+                    : fun inspiration + productivity research delivered every Monday</h2>
+                <p class="article-body">Your Monday Moment is a weekly source of inspiration and productivity advice. Every issue includes curated mantras and quotes, uplifting news stories, productivity techniques, and mindfulness tips. Readers say, “It’s awesome, it has a great balance, and it lightens up my spirit!”
+
+                </p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/your-monday-moment.png" alt="" class="article-image">
+                <p class="article-info">June 12, 2025 | 6173 comments</p>
+            </div>
+        </article>
+        <hr>
+        <article class="article-recent">
+            <div class="article-recent-main">
+                <h2 class="article-title">Tip News
+                    : unbiased daily news, minus the doom and gloom</h2>
+                <p class="article-body">Tip News is an independent news organization that provides quick and unbiased daily news briefs to thousands of engaged readers. People describe it as fun, comprehensive, and easy to read, with no fearmongering headlines or clickbait.
+
+                </p>
+                <a href="#" class="article-read-more">CONTINUE READING</a>
+            </div>
+            <div class="article-recent-secondary">
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/Tip-News.png" alt="" class="article-image">
+                <p class="article-info">June 12, 2025 | 6173 comments</p>
+            </div>
+        </article>
+    </main>
+
+    <aside class="sidebar">
+
+        <div class="sidebar-widget">
+            <h2 class="widget-title">ABOUT ME</h2>
+            <img src="https://png.pngtree.com/png-vector/20191104/ourmid/pngtree-businessman-avatar-cartoon-style-png-image_1953664.jpg" alt="" class="widget-image">
+            <p class="widget-body">Hi, I'm Vishesh kumar Prajapati, a full-stack web developer with experience in building and deploying web applications. I'm proficient in front-end technologies like HTML, CSS, and JavaScript, and I also have experience with back-end technologies like Python and Node.js, as well as databases like MongoDB. I enjoy working on projects from start to finish, and I'm passionate about creating user-friendly and efficient web experiences."
+            </p>
+        </div>
+<hr>
+        <div class="sidebar-widget">
+            <h2 class="widget-title">RECENT POSTS</h2>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">The Know Daily
+                     a hopeful newsletter for UK readers</h3>
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/Screenshot-2023-12-11-144411-e1702323987162.png" alt="" class="widget-image">
+            </div>
+            <hr>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title"> The Current by RocaNews
+                     fun and factual current events, with no alarmism</h3>
+                <img src="https://www.paved.com/blog/wp-content/uploads/2022/09/current.png" alt="" class="widget-image">
+            </div>
+            <hr>
+            <div class="widget-recent-post">
+                <h3 class="widget-recent-post-title">Smile by InspireMore
+                    : positive news to make you smile</h3>
+                <img src="https://www.paved.com/blog/wp-content/uploads/2023/05/smile.png" alt="" class="widget-image">
+            </div>
+        </div>
+
+    </aside>
+
+</div>
+
+
+<footer>
+    <p><strong>Motivational Hub</strong></p>
+    <p>Copyright@Vk.p 2025</p>
+</footer>
+
+
+
+</body>
+</html>
+
+==================
+// ===== MOBILE NAVIGATION =====
+const hamburger = document.getElementById('hamburger');
+const navMenu = document.getElementById('nav-menu');
+
+hamburger.addEventListener('click', () => {
+    hamburger.classList.toggle('active');
+    navMenu.classList.toggle('active');
+});
+
+// Close mobile menu when clicking on a link
+document.querySelectorAll('.nav-link').forEach(link => {
+    link.addEventListener('click', () => {
+        hamburger.classList.remove('active');
+        navMenu.classList.remove('active');
+    });
+});
+
+// ===== STICKY HEADER =====
+const header = document.getElementById('header');
+
+window.addEventListener('scroll', () => {
+    if (window.scrollY > 100) {
+        header.classList.add('scrolled');
+    } else {
+        header.classList.remove('scrolled');
+    }
+});
+
+// ===== SMOOTH SCROLLING =====
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    });
+});
+
+// ===== ACTIVE NAVIGATION LINKS =====
+const sections = document.querySelectorAll('section[id]');
+const navLinks = document.querySelectorAll('.nav-link');
+
+window.addEventListener('scroll', () => {
+    let current = '';
+    sections.forEach(section => {
+        const sectionTop = section.offsetTop - 150;
+        if (scrollY >= sectionTop) {
+            current = section.getAttribute('id');
+        }
+    });
+
+    navLinks.forEach(link => {
+        link.classList.remove('active');
+        if (link.getAttribute('href') === `#${current}`) {
+            link.classList.add('active');
+        }
+    });
+});
+
+// ===== SEARCH FUNCTIONALITY =====
+const searchInput = document.getElementById('search-input');
+const blogPosts = document.querySelectorAll('.blog-post');
+
+searchInput.addEventListener('input', (e) => {
+    const searchTerm = e.target.value.toLowerCase();
+
+    blogPosts.forEach(post => {
+        const title = post.querySelector('h3').textContent.toLowerCase();
+        const content = post.querySelector('p').textContent.toLowerCase();
+        const category = post.querySelector('.post-meta span:last-child')?.textContent.toLowerCase() || '';
+
+        if (title.includes(searchTerm) || content.includes(searchTerm) || category.includes(searchTerm)) {
+            post.style.display = 'block';
+            post.style.animation = 'slideInUp 0.5s ease';
+        } else {
+            post.style.display = 'none';
+        }
+    });
+});
+
+// ===== CATEGORY FILTERING =====
+const categoryCards = document.querySelectorAll('.category-card');
+
+categoryCards.forEach(card => {
+    card.addEventListener('click', () => {
+        const category = card.getAttribute('data-category');
+
+        blogPosts.forEach(post => {
+            const postCategory = post.querySelector('.post-meta span:last-child')?.textContent.toLowerCase();
+
+            if (postCategory && postCategory.includes(category)) {
+                post.style.display = 'block';
+                post.style.animation = 'slideInUp 0.5s ease';
+            } else {
+                post.style.display = 'none';
+            }
+        });
+
+        // Update search input to show active filter
+        searchInput.value = category;
+    });
+});
+
+// ===== QUOTE OF THE DAY =====
+const quotes = [
+    { text: "The best way to predict the future is to create it.", author: "Peter Drucker" },
+    { text: "Innovation distinguishes between a leader and a follower.", author: "Steve Jobs" },
+    { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
+    { text: "Code is like humor. When you have to explain it, it's bad.", author: "Cory House" },
+    { text: "First, solve the problem. Then, write the code.", author: "John Johnson" },
+    { text: "Experience is the name everyone gives to their mistakes.", author: "Oscar Wilde" },
+    { text: "In order to be irreplaceable, one must always be different.", author: "Coco Chanel" }
+];
+
+function updateQuote() {
+    const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+    document.getElementById('quote-text').textContent = `"${randomQuote.text}"`;
+    document.getElementById('quote-author').textContent = `- ${randomQuote.author}`;
+}
+
+// Update quote every 10 seconds
+setInterval(updateQuote, 10000);
+updateQuote(); // Initial load
+
+// ===== FORM SUBMISSIONS =====
+
+// Newsletter Form
+const newsletterForm = document.getElementById('newsletter-form');
+newsletterForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const email = e.target.querySelector('.newsletter-input').value;
+
+    // Simulate form submission
+    alert(`Thank you for subscribing with email: ${email}`);
+    e.target.reset();
+});
+
+// Contact Form
+const contactForm = document.getElementById('contact-form');
+contactForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+
+    const name = document.getElementById('contact-name').value;
+    const email = document.getElementById('contact-email').value;
+    const subject = document.getElementById('contact-subject').value;
+    const message = document.getElementById('contact-message').value;
+
+    // Basic validation
+    if (!name || !email || !subject || !message) {
+        alert('Please fill in all fields.');
+        return;
+    }
+
+    // Email validation
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(email)) {
+        alert('Please enter a valid email address.');
+        return;
+    }
+
+    alert(`Thank you for your message, ${name}! We'll get back to you soon.`);
+    e.target.reset();
+});
+
+// Comment Form
+const commentForm = document.getElementById('comment-form');
+const commentsList = document.getElementById('comments-list');
+
+commentForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+
+    const name = document.getElementById('comment-name').value;
+    const email = document.getElementById('comment-email').value;
+    const message = document.getElementById('comment-message').value;
+
+    if (!name || !email || !message) {
+        alert('Please fill in all fields.');
+        return;
+    }
+
+    // Create comment element
+    const commentDiv = document.createElement('div');
+    commentDiv.className = 'comment-card';
+    commentDiv.style.cssText = `
+                background: var(--bg-secondary);
+                padding: 1.5rem;
+                border-radius: 0.5rem;
+                margin-bottom: 1rem;
+                animation: slideInUp 0.5s ease;
+            `;
+
+    commentDiv.innerHTML = `
+                <div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+                    <div style="width: 40px; height: 40px; background: var(--primary-color); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; margin-right: 1rem;">
+                        ${name.charAt(0).toUpperCase()}
+                    </div>
+                    <div>
+                        <strong>${name}</strong>
+                        <div style="font-size: 0.9rem; color: var(--text-light);">${new Date().toLocaleDateString()}</div>
+                    </div>
+                </div>
+                <p style="margin: 0; color: var(--text-secondary);">${message}</p>
+            `;
+
+    commentsList.insertBefore(commentDiv, commentsList.firstChild);
+    e.target.reset();
+});
+==================
+/* ===== CSS RESET & BASE STYLES ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Color Palette */
+    --primary-color: #6366f1;
+    --primary-dark: #4f46e5;
+    --secondary-color: #f59e0b;
+    --accent-color: #ec4899;
+    --text-primary: rgb(51, 48, 55);
+    --text-secondary: #6b7280;
+    --text-light: #9ca3af;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f9fafb;
+    --bg-dark: #111827;
+    --border-color: #e5e7eb;
+    --success-color: #10b981;
+    --error-color: #ef4444;
+
+    /* Typography */
+    --font-primary: 'Inter', sans-serif;
+    --font-secondary: 'Playfair Display', serif;
+
+    /* Spacing */
+    --section-padding: 5rem 0;
+    --container-padding: 0 1rem;
+
+    /* Transitions */
+    --transition-fast: 0.2s ease;
+    --transition-medium: 0.3s ease;
+    --transition-slow: 0.5s ease;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: var(--font-primary);
+    line-height: 1.6;
+    color: var(--text-primary);
+    background-color: var(--bg-primary);
+    overflow-x: hidden;
+}
+
+/* ===== UTILITY CLASSES ===== */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: var(--container-padding);
+}
+
+.section {
+    padding: var(--section-padding);
+}
+
+.section-title {
+    font-family: var(--font-secondary);
+    font-size: xxx-large;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: var(--text-primary);
+    position: relative;
+}
+
+.section-title::after {
+    content: '';
+    position: absolute;
+    bottom: -0.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 4rem;
+    height: 3px;
+    background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
+    border-radius: 2px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    border: none;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+    transition: var(--transition-medium);
+    font-family: var(--font-primary);
+    font-size: 0.95rem;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+    color: white;
+    box-shadow: var(--shadow-md);
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+}
+
+.btn-secondary {
+    background: transparent;
+    color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+}
+
+.btn-secondary:hover {
+    background: var(--primary-color);
+    color: white;
+}
+
+.grid {
+    display: grid;
+    gap: 2rem;
+}
+
+.grid-2 {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.grid-3 {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.grid-4 {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+/* ===== HEADER & NAVIGATION ===== */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border-color);
+    z-index: 1000;
+    transition: var(--transition-medium);
+}
+
+.header.scrolled {
+    background: rgba(255, 255, 255, 0.98);
+    box-shadow: var(--shadow-md);
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.logo {
+    font-family: var(--font-secondary);
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: var(--text-primary);
+    font-weight: 500;
+    transition: var(--transition-fast);
+    position: relative;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--primary-color);
+    transition: var(--transition-fast);
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+    width: 100%;
+}
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    gap: 4px;
+}
+
+.hamburger span {
+    width: 25px;
+    height: 3px;
+    background: var(--text-primary);
+    transition: var(--transition-fast);
+}
+
+.hamburger.active span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.hamburger.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -6px);
+}
+
+/* ===== HERO SECTION ===== */
+.hero {
+    height: 100vh;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('data:image/svg+xml,');
+    opacity: 0.3;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+}
+
+.hero h1 {
+    font-family: var(--font-secondary);
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    animation: slideInUp 1s ease;
+}
+
+.hero p {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+    opacity: 0.9;
+    animation: slideInUp 1s ease 0.2s both;
+}
+
+.hero .btn {
+    animation: slideInUp 1s ease 0.4s both;
+}
+
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ===== ABOUT SECTION ===== */
+.about {
+    background: var(--bg-secondary);
+}
+
+.about-content {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about p {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+}
+
+/* ===== FEATURED POSTS ===== */
+.featured-post {
+    position: relative;
+    height: 600px;
+    border-radius: 1rem;
+    overflow: hidden;
+    background: linear-gradient(45deg, var(--primary-color), var(--accent-color));
+}
+
+.featured-post-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 2rem;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
+    color: white;
+}
+
+.featured-post h3 {
+    font-family: var(--font-secondary);
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.featured-post p {
+    opacity: 0.9;
+    margin-bottom: 1rem;
+}
+
+.post-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+/* ===== BLOG POSTS ===== */
+.blog-post {
+    background: var(--bg-primary);
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    transition: var(--transition-medium);
+}
+
+.blog-post:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-xl);
+}
+
+.blog-post-image {
+    height: 200px;
+    background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+    position: relative;
+    overflow: hidden;
+}
+
+.blog-post-content {
+    padding: 1.5rem;
+}
+
+.blog-post h3 {
+    font-family: var(--font-secondary);
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.blog-post p {
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+}
+
+.read-more {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: var(--transition-fast);
+}
+
+.read-more:hover {
+    color: var(--primary-dark);
+}
+
+/* ===== CATEGORIES ===== */
+.categories {
+    background: var(--bg-secondary);
+}
+
+.category-card {
+    background: var(--bg-primary);
+    padding: 2rem;
+    text-align: center;
+    border-radius: 1rem;
+    box-shadow: var(--shadow-md);
+    transition: var(--transition-medium);
+    cursor: pointer;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-xl);
+}
+
+.category-icon {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.category-card h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.category-card .count {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+/* ===== SEARCH BAR ===== */
+.search-section {
+    padding: 3rem 0;
+    background: var(--bg-primary);
+}
+
+.search-container {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.search-input {
+    width: 100%;
+    padding: 1rem 1rem 1rem 3rem;
+    border: 2px solid var(--border-color);
+    border-radius: 2rem;
+    font-size: 1rem;
+    transition: var(--transition-fast);
+    background: var(--bg-secondary);
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+}
+
+.search-icon {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-light);
+}
+
+/* ===== AUTHOR BIO ===== */
+.author-bio {
+    background: var(--bg-secondary);
+    text-align: center;
+}
+
+.author-avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 0 auto 1.5rem;
+    background: linear-gradient(45deg, var(--primary-color), var(--accent-color));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    color: white;
+    font-weight: 700;
+}
+
+.author-bio h3 {
+    font-family: var(--font-secondary);
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.author-bio p {
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* ===== NEWSLETTER ===== */
+.newsletter {
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+    color: white;
+    text-align: center;
+}
+
+.newsletter-form {
+    display: flex;
+    max-width: 500px;
+    margin: 0 auto;
+    gap: 1rem;
+}
+
+.newsletter-input {
+    flex: 1;
+    padding: 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+}
+
+.newsletter-input:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.3);
+}
+
+/* ===== TESTIMONIALS ===== */
+.testimonials {
+    background: var(--bg-secondary);
+}
+
+.testimonial-card {
+    background: var(--bg-primary);
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: var(--shadow-md);
+    text-align: center;
+}
+
+.testimonial-text {
+    font-style: italic;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    color: var(--text-secondary);
+}
+
+.testimonial-author {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.stars {
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+}
+
+/* ===== QUOTE OF THE DAY ===== */
+.quote-section {
+    background: linear-gradient(135deg, var(--accent-color), var(--secondary-color));
+    color: white;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.quote-content {
+    position: relative;
+    z-index: 2;
+}
+
+.quote-text {
+    font-family: var(--font-secondary);
+    font-size: 1.5rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+.quote-author {
+    font-weight: 500;
+    opacity: 0.9;
+}
+
+/* ===== SOCIAL MEDIA ===== */
+.social-media {
+    background: var(--bg-secondary);
+    text-align: center;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.social-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.5rem;
+    text-decoration: none;
+    transition: var(--transition-medium);
+}
+
+.social-icon.facebook {
+    background: #1877f2;
+}
+
+.social-icon.twitter {
+    background: #1da1f2;
+}
+
+.social-icon.instagram {
+    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+}
+
+.social-icon.linkedin {
+    background: #0077b5;
+}
+
+.social-icon.youtube {
+    background: #ff0000;
+}
+
+.social-icon:hover {
+    transform: translateY(-5px) scale(1.1);
+    box-shadow: var(--shadow-lg);
+}
+
+/* ===== COMMENTS ===== */
+.comments {
+    background: var(--bg-primary);
+}
+
+.comment-form {
+    background: var(--bg-secondary);
+    padding: 2rem;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    color: var(--text-primary);
+}
+
+.form-input,
+.form-textarea {
+    width: 100%;
+    padding: 0.75rem;
+    border: 2px solid var(--border-color);
+    border-radius: 0.5rem;
+    font-family: var(--font-primary);
+    transition: var(--transition-fast);
+}
+
+.form-input:focus,
+.form-textarea:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+}
+
+.form-textarea {
+    min-height: 120px;
+    resize: vertical;
+}
+
+/* ===== CONTACT FORM ===== */
+.contact {
+    background: var(--bg-secondary);
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    background: var(--bg-primary);
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: var(--shadow-md);
+}
+
+/* ===== FAQ SECTION ===== */
+.faq {
+    background: var(--bg-primary);
+}
+
+.faq-item {
+    background: var(--bg-secondary);
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
+
+.faq-question {
+    padding: 1.5rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    transition: var(--transition-fast);
+}
+
+.faq-question:hover {
+    background: var(--border-color);
+}
+
+.faq-icon {
+    transition: var(--transition-fast);
+}
+
+.faq-item.active .faq-icon {
+    transform: rotate(180deg);
+}
+
+.faq-answer {
+    padding: 0 1.5rem;
+    max-height: 0;
+    overflow: hidden;
+    transition: var(--transition-medium);
+}
+
+.faq-item.active .faq-answer {
+    padding: 0 1.5rem 1.5rem;
+    max-height: 200px;
+}
+
+/* ===== BACK TO TOP BUTTON ===== */
+.back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 50px;
+    height: 50px;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transition: var(--transition-medium);
+    z-index: 1000;
+    box-shadow: var(--shadow-lg);
+}
+
+.back-to-top.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.back-to-top:hover {
+    background: var(--primary-dark);
+    transform: translateY(-3px);
+}
+
+/* ===== FOOTER ===== */
+.footer {
+    background: var(--bg-dark);
+    color: white;
+    padding: 3rem 0 1rem;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.footer-section h3 {
+    font-family: var(--font-secondary);
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.footer-section p,
+.footer-section a {
+    color: #d1d5db;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    display: block;
+    transition: var(--transition-fast);
+}
+
+.footer-section a:hover {
+    color: var(--primary-color);
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 2rem;
+    border-top: 1px solid #374151;
+    color: #9ca3af;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+@media (max-width: 768px) {
+    .nav-menu {
+        position: fixed;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background: var(--bg-primary);
+        flex-direction: column;
+        padding: 2rem;
+        box-shadow: var(--shadow-lg);
+        transform: translateY(-100%);
+        transition: var(--transition-medium);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    .nav-menu.active {
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
+
+    .newsletter-form {
+        flex-direction: column;
+    }
+
+    .social-icons {
+        gap: 1rem;
+    }
+
+    .grid-2,
+    .grid-3,
+    .grid-4 {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+
+    .section {
+        padding: 3rem 0;
+    }
+
+    .back-to-top {
+        bottom: 1rem;
+        right: 1rem;
+    }
+}
+================
+
+/*  Fonts
+-----
+font-family: 'Lora', serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+body {
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 300;
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.image-full {
+    max-height: 300px;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 2em;
+}
+
+/* =================
+Typography
+================= */
+
+h1,
+h2,
+h3 {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    color: #143774;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+h3 {
+    color: #1792d2;
+}
+
+a {
+    color: #1792d2;
+}
+
+a:hover,
+a:focus {
+    color: #143774;
+}
+
+strong {
+    font-weight: 700;
+}
+
+/* h1 subtitle */
+.subtitle {
+    font-weight: 700;
+    color: #1792d2;
+    font-size: .75rem;
+    margin: 0;
+}
+
+.article-title {
+    font-size: 1.5rem;
+}
+
+.article-read-more,
+.article-info {
+    font-size: .875rem;
+}
+
+.article-read-more {
+    color: #1792d2;
+    text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.article-read-more:hover,
+.article-read-more:focus {
+    color: #143774;
+    text-decoration: underline;
+}
+
+.article-info {
+    margin: 2em 0;
+}
+
+.widget-title,
+.widget-recent-post-title {
+    font-size: 1rem;
+}
+
+.widget-title {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.widget-recent-post-title {
+    color: #143774;
+}
+
+
+/* =================
+Layout
+================= */
+
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.container-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header {
+    background: rgba(109, 80, 165, 0.33);
+    padding: 2em 0;
+    text-align: center;
+    margin-bottom: 3em;
+}
+
+footer {
+    background:#143774;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding:   0.2em 0;
+}
+
+@media (min-width: 675px) {
+    header {
+        text-align: left;
+    }
+
+    .container-flex {
+        flex-direction: row;
+    }
+
+    main {
+        width: 70%;
+    }
+
+    aside {
+        width: 25%;
+        min-width: 200px;
+        margin-left: 1em;
+    }
+}
+
+/* navigation */
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin-left: 2em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #707070;
+    font-weight: 700;
+    padding: .25em 0;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+nav a:hover,
+nav a:focus {
+    color: #1792d2;
+}
+
+.current-page {
+    border-bottom: 1px solid #707070;
+}
+
+.current-page:hover {
+    color: #707070;
+}
+
+@media (max-width: 675px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav li {
+        margin: .5em 0;
+    }
+}
+
+/* articles */
+
+.article-featured {
+    border-bottom: #707070 1px solid;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+}
+
+.article-recent {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2em;
+}
+
+.article-recent-main {
+    order: 2;
+}
+
+.article-recent-secondary {
+    order: 1;
+}
+
+@media (min-width: 675px) {
+    .article-recent {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .article-recent-main {
+        width: 68%;
+    }
+
+    .article-recent-secondary {
+        width: 30%;
+    }
+
+    .article-featured {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .article-image {
+        order: -2;
+        min-height: 250px;
+        object-fit: cover;
+        /* object-position: left; */
+    }
+
+    .article-info {
+        order: -1;
+    }
+}
+
+/* widgets */
+
+.sidebar-widget {
+    border: 20px solid #333037;
+    margin-bottom: 2em;
+    padding: 1em;
+}
+li:hover{
+    color: #1da1f2;
+}
+.widget-recent-post {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid rgba(244, 243, 246, 0.33);
+    margin-bottom: 1em;
+    line-height: 1.4;
+}
+
+.widget-recent-post:last-child {
+    border: 0;
+    margin: 0;
+}
+
+.widget-image {
+    order: -1;
+}
