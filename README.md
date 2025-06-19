@@ -1,1 +1,0 @@
-# Naic-internship
